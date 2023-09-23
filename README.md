@@ -1,12 +1,8 @@
 # Gatsby + Decap CMS Starter
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/13bb3cd7-216f-4e6a-86c6-6b145ccedde9/deploy-status)](https://app.netlify.com/sites/lets-talk-testsite/deploys)
 
-**Note:** This starter uses [Gatsby v4](https://www.gatsbyjs.com/gatsby-4/).
-
-This repo contains an example business website that is built with [Gatsby](https://www.gatsbyjs.org/), and [Decap CMS](https://www.decapcms.org): **[Demo Link](https://gatsby-netlify-cms.netlify.com/)**.
-
-It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
+Test site [available here](https://lets-talk-testsite.netlify.app/)
 
 ## Features
 
