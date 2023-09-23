@@ -6,15 +6,9 @@ heading: Certified Speech-Language Pathologist by SAC & ASHA
 subheading: Registered Speech-Language Pathologist
 mainpitch:
   title: About Me
-  description: As a qualified and registered professional, I bring the benefit of
-    my 30+ years of Speech-Language Pathology experience to meeting a client's
-    communication needs. I hold a Bachelor of Arts in Communicative Disorders
-    and a Master of Arts in Speech Pathology. In addition, I have maintained my
-    Certification of Clinical Competence with the American
-    Speech-Language-Hearing Association (ASHA) and am registered with the
-    College of Speech and Hearing Professionals of British Columbia (CSHPBC).
-    This has granted me with numerous opportunities in my role as the Clinical
-    Educator/Supervisor for many SLP students completing their Masters' degrees.
+  description: A qualified and registered professional with 30+ years of
+    Speech-Language Pathology experience ready to meet every client's
+    communication needs!
 description: ---
 intro:
   blurbs:
